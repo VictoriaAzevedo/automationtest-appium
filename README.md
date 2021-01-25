@@ -15,10 +15,14 @@ Terminal: npm install -g appium
 Desktop: https://github.com/appium/appium-desktop/releases/tag/v1.19.1
 
 - Android Studio
+https://developer.android.com/studio
 
 Variavéis de Ambientes:
 ANDORID_HOME
 JAVA_HOME
 
+Verificar se todas dependencias necessárias estão instaladas, no terminal:  npx appium-doctor
 
+EMULADOR:
+Android Studio > AVD Manenger > Virtual Device > 
 
